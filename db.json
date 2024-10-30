@@ -18,6 +18,22 @@
         }],
         "pv": 0,
         "is_follow": 0
+    },
+    {
+        "id": 1,
+        "live_number": 108294349,
+        "title": "不懂方法",
+        "cover": "http://qiniu.leaguechains.yblylm.com/uploads/20220302/ec1af9b28478bf344c8fbb7c8397af07.jpeg",
+        "live_mode": 1,
+        "avatar": "https://ant.qiniu.dev.yctourism.com/uploads/20220516/2279291d2444fa1372752de2258fb9cb.jpeg",
+        "nickname": "用户bqolrg",
+        "tag": [{
+            "tag_name": "帅气男神"
+        }, {
+            "tag_name": "高星佬大"
+        }],
+        "pv": 0,
+        "is_follow": 0
     }]
   }
 }
